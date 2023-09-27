@@ -1,5 +1,5 @@
 # amazon_s3
-Primeiros passo S3
+Passo a Passo Amazon S3
 
 Passo 1: Acesse o Console da AWS
 
